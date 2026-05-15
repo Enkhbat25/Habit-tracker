@@ -6,7 +6,7 @@ Built as the capstone project (Project 3) for the Web Application course.
 
 ## Live Demo
 
-> Add Vercel URL here once deployed: `https://your-app.vercel.app`
+> Add Vercel URL here once deployed: `(https://habit-tracker-xi-bice.vercel.app/)`
 
 ## Features
 
